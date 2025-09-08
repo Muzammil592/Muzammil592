@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muzammil Abbas</h1>
 <h3 align="center">A passionate full stack developer from pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil592&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil592" /> </p>
-
 - 🔭 I’m currently working on **Image processing**
 
 - 🌱 I’m currently learning **Computer vision, Image processing**
